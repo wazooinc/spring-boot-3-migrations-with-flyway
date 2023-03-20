@@ -1,0 +1,1 @@
+ALTER TABLE post ADD account_id BIGINT NOT NULL;
